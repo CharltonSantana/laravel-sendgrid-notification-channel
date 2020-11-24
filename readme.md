@@ -4,7 +4,7 @@
 
 `SendGrid` supports sending emails using it's pre-defined templates to format mail messsages. Before you can send SendGrid Mail notifications, you need to install the notification channel via Composer:
 
-    cuonggt/laravel-sendgrid-notification-channel
+    charltonsantana/laravel-sendgrid-notification-channel
 
 Next, you will need to add a few configuration options to your `config/services.php` configuration file. You may copy the example configuration below to get started:
 
