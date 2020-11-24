@@ -1,5 +1,5 @@
 {
-    "name": "CharltonSantana/laravel-sendgrid-notification-channel",
+    "name": "charltonsantana/laravel-sendgrid-notification-channel",
     "description": "SendGrid Notification Channel for Laravel.",
     "keywords": ["laravel", "notifications", "sendgrid"],
     "license": "MIT",
